@@ -1,2 +1,7 @@
 # hello-world
-my first git thing
+
+boopsi
+
+im razeen 
+you're a nut
+haha
